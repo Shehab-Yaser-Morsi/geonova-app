@@ -129,7 +129,7 @@ const optimalSitesData = [
     id: 1,
     title: "الظهير الصحراوي الغربي - الكوامل",
     suitability: 96,
-    imageUrl: "data:image/jpeg;base64,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",
+    imageUrl: "https://images.unsplash.com/photo-1509391365360-2e959784a276?w=500",
     qrLink: "https://geonova.app/sites/el-kawamel",
     aiInsight: "بناءً على النمذجة الجيومكانية، تتميز منطقة الكوامل بانخفاض معدل التباين الحراري السطحي واستقرار طبوغرافي ممتاز. يتوقع التحليل المكاني خلال 10 سنوات القادمة كفاءة تشغيلية تتجاوز 98.5% مع إمكانية ربط مباشر بشبكة القومية للكهرباء."
   },
@@ -236,7 +236,7 @@ const individualAnalysisMaps = [
     id: "16",
     title: "خريطة تصنيف الرطوبة",
     img: "/map19.jpg",
-    description: "توضح الخريطة التباين المكاني في مستويات الرطوبة داخل منطقة الدراسة، حيث تظهر القيم المرتفعة نسبيًا في الأجزاء الجنوبية والجنوبية الشرقية باللون الأخضر، بينما تتركز القيم الأقل في الأجزاء الشمالية والغربية باللونين الأحمر والبرتقالي.",
+    description: "توضح الخريطة التباين المكاني في مستويات الرطوبة داخل منطقة الدراسة، حيث تظهر القيم المرتفعة نسبيًا في الأجزاء الجنوبية والجنوبية الشرقية باللون الأخضر، بينما تتركز القيم الأقل في الأجزاء الشمالية وغرب المنشأة باللونين الأحمر والبرتقالي.",
     importance: "يساعد هذا التباين في تحديد المناطق الأكثر ملاءمة من الناحية المناخية لإقامة محطات الطاقة الشمسية، مع مراعاة أن انخفاض الرطوبة يُعد عاملًا مساعدًا وفقًا لمعيار الدراسة."
   },
   {
@@ -302,12 +302,6 @@ export default function App() {
   const [clickedMarkers, setClickedMarkers] = useState<Array<{ lat: number; lng: number; text: string }>>([]);
   const [selectedSiteForAI, setSelectedSiteForAI] = useState(optimalSitesData[0]);
 
-  // دالة تغيير الصفحة مع التمرير التلقائي لأعلى الصفحة فوراً
-  const handleViewChange = (view: 'home' | 'spatial-data' | 'analysis-results' | 'final-result') => {
-    setCurrentView(view);
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-  };
-
   useEffect(() => {
     fetch('/high.geojson')
       .then(res => res.json())
@@ -336,7 +330,6 @@ export default function App() {
   const scrollToSection = (id: string) => {
     if (currentView !== 'home') {
       setCurrentView('home');
-      window.scrollTo({ top: 0, behavior: 'smooth' });
       setTimeout(() => {
         document.getElementById(id)?.scrollIntoView({ behavior: 'smooth' });
       }, 100);
@@ -373,10 +366,13 @@ export default function App() {
               <button onClick={() => scrollToSection('optimal-sites')} className="gn-link">المواقع المثلى</button>
               <button onClick={() => scrollToSection('gallery')} className="gn-link">المعرض</button>
               <button onClick={() => scrollToSection('thanks')} className="gn-link">شكر وتقدير</button>
+              {/* <button onClick={() => setCurrentView('final-result')} className="gn-btn-gold px-4 py-1.5 rounded-lg text-xs font-bold flex items-center gap-1">
+                <FaFlagCheckered className="w-3 h-3" /> الناتج النهائي
+              </button> */}
             </div>
           ) : (
             <button 
-              onClick={() => handleViewChange('home')}
+              onClick={() => setCurrentView('home')}
               className="gn-btn-gold px-5 py-2 rounded-xl font-bold text-sm flex items-center gap-2"
             >
               <FaHome /> العودة للرئيسية 
@@ -387,184 +383,7 @@ export default function App() {
 
       <main className="max-w-7xl mx-auto px-6 py-10 space-y-24">
 
-        {/* الصفحة الفرعية الجديدة: الناتج النهائي (خريطة الملاءمة المكانية النهائية وجداول الأوزان والنسب) */}
-        {currentView === 'final-result' && (
-          <div className="space-y-12 animate-fade-in py-6">
-            <div className="flex items-center justify-between border-b border-white/10 pb-6">
-              <div>
-                <span className="gn-gold text-sm font-semibold">مخرجات التراكب الموزون (Weighted Overlay)</span>
-                <h1 className="gn-display text-3xl font-semibold text-white mt-1">الناتج النهائي: خريطة الملاءمة المكانية النهائية</h1>
-              </div>
-             
-            </div>
-
-            {/* بطاقة التحليل النصي والخريطة النهائية */}
-            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/40 shadow-2xl">
-              <div className="flex items-center gap-3 border-b border-white/10 pb-4">
-                <div className="gn-icon-box p-3 rounded-2xl"><FaFlagCheckered className="w-6 h-6 text-[#e9c98a]" /></div>
-                <div>
-                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">النتائج النهائية للمشروع</span>
-                  <h2 className="gn-display text-2xl font-semibold text-white">تحليل خريطة الملاءمة المكانية النهائية لاختيار مواقع مزارع الطاقة الشمسية بمحافظة سوهاج</h2>
-                </div>
-              </div>
-
-              <div className="grid lg:grid-cols-2 gap-8 items-center">
-                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
-                  <img 
-                    src="/map26.jpg" 
-                    alt="خريطة الملاءمة المكانية النهائية" 
-                    className="w-full h-auto object-contain rounded-xl max-h-[500px] mx-auto" 
-                    onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} 
-                  />
-                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">
-                    📍 خريطة 26: التوزيع الجغرافي لدرجات الملاءمة المكانية النهائية بمحافظة سوهاج
-                  </div>
-                </div>
-
-                <div className="space-y-4 gn-text-2 text-sm md:text-base leading-relaxed">
-                  <p>
-                    توضح الخريطة التوزيع الجغرافي لدرجات الملاءمة المكانية لإنشاء مزارع الطاقة الشمسية بمحافظة سوهاج، وذلك بعد دمج مختلف المعايير الطبيعية والبشرية باستخدام أسلوب التراكب الموزون (<span className="gn-gold font-semibold">Weighted Overlay</span>)، بهدف تحديد أنسب المواقع من الناحية الجغرافية والبيئية والفنية لإقامة مشروعات الطاقة الشمسية.
-                  </p>
-                  <p>
-                    وتكشف الخريطة عن وجود تباين مكاني واضح في درجات الملاءمة داخل منطقة الدراسة، حيث تتركز المناطق ذات الملاءمة العالية جدًا باللون الأخضر الداكن في مساحات واسعة من الأجزاء الشمالية والوسطى والغربية، وتمتد في بعض المواقع نحو الجنوب، وقد بلغت المساحة الإجمالية لهذه الفئة <span className="gn-gold font-bold text-base">2,177 كم²</span>، وهو ما يعكس وجود نطاقات جغرافية واسعة تمتلك مقومات مناسبة لإقامة مزارع الطاقة الشمسية.
-                  </p>
-                  <p>
-                    كما تظهر المناطق الملائمة باللون الأخضر الفاتح في أجزاء متفرقة من المنطقة، بينما تنتشر المناطق متوسطة الملاءمة باللون الأصفر، وتظهر المناطق غير الملائمة باللون البرتقالي، في حين تتركز المناطق ذات الملاءمة المنخفضة جدًا باللون الأحمر في بعض النطاقات الشرقية والجنوبية.
-                  </p>
-                  <p className="bg-[#e9c98a]/10 p-4 rounded-2xl border border-[#e9c98a]/20 text-white font-medium">
-                    وبوجه عام، توضح النتائج أن محافظة سوهاج تمتلك مساحات واسعة قابلة للترشيح لإقامة مشروعات الطاقة الشمسية، مع إعطاء الأولوية للمناطق التي حققت أعلى درجات الملاءمة، والتي بلغت مساحتها <span className="gn-gold font-bold">2,177 كم²</span>، باعتبارها النطاقات الأكثر ملاءمة وفقًا لمعايير الدراسة والتحليل المكاني.
-                  </p>
-                </div>
-              </div>
-
-              {/* قسم الجداول المرفقة (الأول والثاني) والنسب */}
-              <div className="pt-8 border-t border-white/10 space-y-10">
-                
-                {/* الجدول الأول: جدول الأوزان النسبية للمعايير (الجدول الكبير) */}
-                <div className="space-y-4">
-                  <h3 className="gn-display text-xl font-semibold text-white flex items-center gap-2">
-                    <FaTable className="gn-gold" /> الجدول الأول: جدول الأوزان النسبية للمعايير (Weighted Criteria)
-                  </h3>
-                  <div className="overflow-x-auto rounded-2xl border border-white/10 bg-black/40">
-                    <table className="w-full text-right border-collapse">
-                      <thead>
-                        <tr className="bg-[#e9c98a]/15 text-gold border-b border-white/10 text-sm md:text-base">
-                          <th className="p-4 font-bold">المعيار (Criteria)</th>
-                          <th className="p-4 font-bold text-center">الوزن النسبي (%)</th>
-                        </tr>
-                      </thead>
-                      <tbody className="divide-y divide-white/5 text-sm md:text-base gn-text-2">
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الإشعاع الشمسي</td><td className="p-4 text-center font-mono font-bold gn-gold">22%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">خطوط الكهرباء الجهد العالي</td><td className="p-4 text-center font-mono font-bold gn-gold">14%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الطرق الرئيسية</td><td className="p-4 text-center font-mono font-bold gn-gold">10%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">المخاطر الطبيعية (مخرات السيول والأودية)</td><td className="p-4 text-center font-mono font-bold gn-gold">6%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الانحدار</td><td className="p-4 text-center font-mono font-bold gn-gold">8%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الارتفاعات</td><td className="p-4 text-center font-mono font-bold gn-gold">5%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">متوسط درجات الحرارة</td><td className="p-4 text-center font-mono font-bold gn-gold">4%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الرطوبة النسبية</td><td className="p-4 text-center font-mono font-bold gn-gold">4%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">المحميات الطبيعية</td><td className="p-4 text-center font-mono font-bold gn-gold">5%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">استخدام الأرض</td><td className="p-4 text-center font-mono font-bold gn-gold">7%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">التربة</td><td className="p-4 text-center font-mono font-bold gn-gold">8%</td></tr>
-                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">التركيب الجيولوجي</td><td className="p-4 text-center font-mono font-bold gn-gold">7%</td></tr>
-                        <tr className="bg-[#e9c98a]/10 font-bold text-white border-t border-[#e9c98a]/30">
-                          <td className="p-4">الإجمالي النهائي الأخير</td>
-                          <td className="p-4 text-center font-mono text-lg gn-gold">100%</td>
-                        </tr>
-                      </tbody>
-                    </table>
-                  </div>
-                </div>
-
-                {/* الجدول الثاني والرسم البياني الدائري للنسب */}
-                <div className="space-y-4">
-                  <h3 className="gn-display text-xl font-semibold text-white flex items-center gap-2">
-                    <FaChartPie className="gn-gold" /> الجدول الثاني: جدول درجات الملاءمة المكانية والنسب المئوية
-                  </h3>
-                  <div className="grid lg:grid-cols-3 gap-8 items-center">
-                    
-                    {/* الجدول الثاني */}
-                    <div className="lg:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/40">
-                      <table className="w-full text-right border-collapse">
-                        <thead>
-                          <tr className="bg-[#e9c98a]/15 text-gold border-b border-white/10 text-sm md:text-base">
-                            <th className="p-4 font-bold">الفئة (Suitability Class)</th>
-                            <th className="p-4 font-bold text-center">المساحة (كم²)</th>
-                            <th className="p-4 font-bold text-center">النسبة (%)</th>
-                          </tr>
-                        </thead>
-                        <tbody className="divide-y divide-white/5 text-sm md:text-base gn-text-2">
-                          <tr className="hover:bg-white/5 transition-colors">
-                            <td className="p-4 font-medium text-white flex items-center gap-2">
-                              <span className="w-3 h-3 rounded-full bg-red-800"></span> Unsuitable (غير ملائم)
-                            </td>
-                            <td className="p-4 text-center font-mono">1,198</td>
-                            <td className="p-4 text-center font-mono font-bold gn-gold">12.03%</td>
-                          </tr>
-                          <tr className="hover:bg-white/5 transition-colors">
-                            <td className="p-4 font-medium text-white flex items-center gap-2">
-                              <span className="w-3 h-3 rounded-full bg-red-500"></span> Low Suitability (ملاءمة منخفضة جداً)
-                            </td>
-                            <td className="p-4 text-center font-mono">1,973</td>
-                            <td className="p-4 text-center font-mono font-bold gn-gold">19.81%</td>
-                          </tr>
-                          <tr className="hover:bg-white/5 transition-colors">
-                            <td className="p-4 font-medium text-white flex items-center gap-2">
-                              <span className="w-3 h-3 rounded-full bg-yellow-400"></span> Moderate Suitability (متوسط الملاءمة)
-                            </td>
-                            <td className="p-4 text-center font-mono">3,231</td>
-                            <td className="p-4 text-center font-mono font-bold gn-gold">32.43%</td>
-                          </tr>
-                          <tr className="hover:bg-white/5 transition-colors">
-                            <td className="p-4 font-medium text-white flex items-center gap-2">
-                              <span className="w-3 h-3 rounded-full bg-emerald-400"></span> High Suitability (ملائم)
-                            </td>
-                            <td className="p-4 text-center font-mono">1,383</td>
-                            <td className="p-4 text-center font-mono font-bold gn-gold">13.89%</td>
-                          </tr>
-                          <tr className="hover:bg-white/5 transition-colors">
-                            <td className="p-4 font-medium text-white flex items-center gap-2">
-                              <span className="w-3 h-3 rounded-full bg-emerald-800"></span> Most Suitable (أعلى ملاءمة / ممتاز)
-                            </td>
-                            <td className="p-4 text-center font-mono font-bold text-emerald-400">2,177</td>
-                            <td className="p-4 text-center font-mono font-bold text-emerald-400">21.85%</td>
-                          </tr>
-                        </tbody>
-                      </table>
-                    </div>
-
-                    {/* الرسم البياني الدائري المصمم خصيصاً للنسب المئوية المرفقة */}
-                    <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center border border-white/10">
-                      <h4 className="text-sm font-semibold text-white text-center">النسبة المئوية لتوزيع درجات الملاءمة</h4>
-                      <div 
-                        className="relative w-44 h-44 rounded-full flex items-center justify-center shadow-2xl transition-transform hover:scale-105" 
-                        style={{ 
-                          background: 'conic-gradient(#991b1b 0% 12.03%, #ef4444 12.03% 31.84%, #facc15 31.84% 64.27%, #34d399 64.27% 78.16%, #065f46 78.16% 100%)' 
-                        }}
-                      >
-                        <div className="absolute w-28 h-28 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
-                          <span className="text-[11px] gn-muted">المساحة الكلية</span>
-                          <span className="text-sm font-bold text-white font-mono">9,962 كم²</span>
-                        </div>
-                      </div>
-
-                      <div className="text-[11px] space-y-1.5 text-right w-full pt-3 border-t border-white/10">
-                        <p className="text-white flex items-center justify-between"><span className="flex items-center"><span className="w-2.5 h-2.5 rounded-full bg-red-800 ml-1.5 inline-block"></span>Unsuitable:</span> <b className="gn-gold font-mono">12.03%</b></p>
-                        <p className="text-white flex items-center justify-between"><span className="flex items-center"><span className="w-2.5 h-2.5 rounded-full bg-red-500 ml-1.5 inline-block"></span>Low Suitability:</span> <b className="gn-gold font-mono">19.81%</b></p>
-                        <p className="text-white flex items-center justify-between"><span className="flex items-center"><span className="w-2.5 h-2.5 rounded-full bg-yellow-400 ml-1.5 inline-block"></span>Moderate Suitability:</span> <b className="gn-gold font-mono">32.43%</b></p>
-                        <p className="text-white flex items-center justify-between"><span className="flex items-center"><span className="w-2.5 h-2.5 rounded-full bg-emerald-400 ml-1.5 inline-block"></span>High Suitability:</span> <b className="gn-gold font-mono">13.89%</b></p>
-                        <p className="text-white flex items-center justify-between"><span className="flex items-center"><span className="w-2.5 h-2.5 rounded-full bg-emerald-800 ml-1.5 inline-block"></span>Most Suitable:</span> <b className="text-emerald-400 font-bold font-mono">21.85%</b></p>
-                      </div>
-                    </div>
-
-                  </div>
-                </div>
-
-              </div>
-            </div>
-          </div>
-        )}
-
-        {/* عرض الصفحة الفرعية الأولى: طبقات البيانات المكانية (السكاشن 1 إلى 11) */}
+        {/* عرض الصفحة الفرعية: طبقات البيانات المكانية (متضمنة السكاشن 1 إلى 11 مع جداولها الكاملة) */}
         {currentView === 'spatial-data' && (
           <div className="space-y-12 animate-fade-in py-6">
             <div className="flex items-center justify-between border-b border-white/10 pb-6">
@@ -572,7 +391,7 @@ export default function App() {
                 <span className="gn-gold text-sm font-semibold">استعراض تفصيلي للبيانات المكانية</span>
                 <h1 className="gn-display text-3xl font-semibold text-white mt-1">طبقات البيانات والمعايير الجغرافية</h1>
               </div>
-             
+              
             </div>
             
             {/* السكشن الأول: خريطة الموقع الجغرافي لمحافظة سوهاج */}
@@ -597,7 +416,7 @@ export default function App() {
                       توضح الخريطة الموقع الجغرافي لمحافظة سوهاج في الجزء الجنوبي من جمهورية مصر العربية، حيث تحدها محافظة أسيوط من الشمال ومحافظة قنا من الجنوب، ويحدها البحر الأحمر شرقاً ومحافظة الوادي الجديد غرباً.
                     </p>
                     <p className="gn-text-2 leading-relaxed text-sm md:text-base">
-                      تمتد المحافظة بين الوادي النيلي والصحراء الشرقية وغرباً، وهو ما يعكس تنوعاً واضحاً في الخصائص الطبيعية والتضاريسية داخل منطقة الدراسة. وتُعد هذه الخصائص أساساً مهماً للتحليل المكاني لاختيار المواقع المناسبة لإنشاء مزارع الطاقة الشمسية.
+                      تمتد المحافظة بين الوادي النيلي والصحراء الشرقية والغربية، وهو ما يعكس تنوعاً واضحاً في الخصائص الطبيعية والتضاريسية داخل منطقة الدراسة. وتُعد هذه الخصائص أساساً مهماً للتحليل المكاني لاختيار المواقع المناسبة لإنشاء مزارع الطاقة الشمسية.
                     </p>
                   </div>
                   <div className="flex items-center gap-4 pt-2">
@@ -636,11 +455,476 @@ export default function App() {
               </div>
             </div>
 
-            {/* باقي السكاشن للبيانات المكانية ... */}
+            {/* السكشن الثالث: خريطة أنواع التربة ومعها الجدول والرسم البياني */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaLayerGroup className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن الثالث • معيار طبيعي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة أنواع التربة</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map3.jpg" alt="خريطة أنواع التربة" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 3: التوزيع الجغرافي لأنواع التربة والتكوينات الأرضية بمحافظة سوهاج</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      توضح الخريطة التوزيع الجغرافي لأنواع التربة داخل منطقة الدراسة، حيث تظهر عدة أنواع من التكوينات الترابية، من أبرزها التربة الصحراوية الداكنة، وتربة الرواسب النهرية، والتربة الصخرية، والتربة الواحاتية الغنية.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تساعد دراسة أنواع التربة في تقييم طبيعة الأراضي ومدى ملاءمتها لأعمال إنشاء وتركيب محطات الطاقة الشمسية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* الجدول والرسم البياني للسكشن 3 */}
+              <div className="pt-6 border-t border-white/10 space-y-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="gn-display text-lg font-semibold text-white flex items-center gap-2"><FaTable className="gn-gold" /> جدول توزيع التربة بمحافظة سوهاج</h4>
+                </div>
+                <div className="grid md:grid-cols-3 gap-6">
+                  <div className="md:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/30">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/10 text-gold border-b border-white/10 text-sm">
+                          <th className="p-4 font-semibold">نوع التربة</th>
+                          <th className="p-4 font-semibold">المساحة (كم²)</th>
+                          <th className="p-4 font-semibold">النسبة (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm gn-text-2">
+                        <tr><td className="p-4 font-medium text-white">تربة وشاحية غنية</td><td className="p-4 font-mono">9.18</td><td className="p-4 font-mono gn-gold font-bold">0.09%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تربة صحراوية داكنة</td><td className="p-4 font-mono">6,637.48</td><td className="p-4 font-mono gn-gold font-bold">65.93%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تربة الرواسب النهرية</td><td className="p-4 font-mono">2,767.28</td><td className="p-4 font-mono gn-gold font-bold">27.49%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تربة صخرية</td><td className="p-4 font-mono">653.71</td><td className="p-4 font-mono gn-gold font-bold">6.49%</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                    <h5 className="text-sm font-semibold text-white text-center">توزيع نسب أنواع التربة</h5>
+                    <div className="relative w-36 h-36 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#ef4444 0% 65.93%, #84cc16 65.93% 93.42%, #a855f7 93.42% 99.91%, #38bdf8 99.91% 100%)' }}>
+                       <div className="absolute w-24 h-24 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                         <span className="text-[10px] gn-muted">الإجمالي</span>
+                         <span className="text-xs font-bold text-white">100%</span>
+                       </div>
+                    </div>
+                    <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-600 ml-1"></span>تربة صحراوية داكنة: <b className="gn-gold">65.93%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-lime-500 ml-1"></span>تربة الرواسب النهرية: <b className="gn-gold">27.49%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-purple-500 ml-1"></span>تربة صخرية: <b className="gn-gold">6.49%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-sky-400 ml-1"></span>تربة وشاحية غنية: <b className="gn-gold">0.09%</b></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن الرابع: خريطة الإشعاع الشمسي */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaSun className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن الرابع • معيار مناخي أساسي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة الإشعاع الشمسي (Solar Radiation)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map4.jpg" alt="خريطة الإشعاع الشمسي" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 4: التوزيع المكاني لمعدلات الإشعاع الشمسي (kWh/m²/day)</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      توضح الخريطة التوزيع المكاني لمعدلات الإشعاع الشمسي بمحافظة سوهاج، بوحدة كيلووات ساعة لكل متر مربع يوميًا (kWh/m²/day). وتكشف عن وجود تباين مكاني، حيث تظهر القيم الأعلى في الأجزاء الشمالية والشمالية الشرقية.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      يُعد الإشعاع الشمسي من أهم معايير اختيار مواقع محطات الطاقة الشمسية، إذ تزداد ملاءمة المواقع كلما ارتفعت كمية الإشعاع الشمسي المتاحة لزيادة كفاءة إنتاج الكهرباء.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن الخامس: خريطة درجة حرارة الهواء */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaTemperatureHigh className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن الخامس • معيار مناخي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة درجة حرارة الهواء (Air Temperature)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map5.jpg" alt="خريطة درجة حرارة الهواء" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 5: التوزيع المكاني لمتوسط درجات حرارة الهواء (°C)</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تتراوح القيم الظاهرة تقريبًا بين 22 و26 درجة مئوية. يظهر انخفاض نسبي في درجات الحرارة بالأجزاء الشمالية والشمالية الشرقية، بينما ترتفع في الأجزاء الجنوبية والوسطى.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تؤثر درجة حرارة البيئة المحيطة في كفاءة الألواح الشمسية، إذ تؤدي درجات الحرارة المرتفعة للخلية عادةً إلى انخفاض كفاءتها الكهربائية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن السادس: خريطة الرطوبة النسبية */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaTint className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن السادس • معيار مناخي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة الرطوبة النسبية (Relative Humidity)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map6.jpg" alt="خريطة الرطوبة النسبية" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 6: التوزيع المكاني لمعدلات الرطوبة النسبية (%)</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تتراوح القيم تقريبًا بين 29% و36%، وترتفع نسبيًا في الأجزاء الشمالية والشمالية الغربية بينما تنخفض باتجاه الجنوب والجنوب الشرقي.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تُستخدم لتقييم الظروف الجوية والبيئة التشغيلية المحيطة بالمحطات الشمسية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن السابع: خريطة التكوينات الجيولوجية ومعها الجدول والرسم البياني */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaMountain className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن السابع • معيار جيولوجي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة التكوينات الجيولوجية (Geology)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map7.jpg" alt="خريطة التكوينات الجيولوجية" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 7: التوزيع المكاني للتكوينات الجيولوجية بمحافظة سوهاج</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      توضح الخريطة التوزيع المكاني للتكوينات الجيولوجية بمحافظة سوهاج، حيث تظهر مجموعة متنوعة من الوحدات الجيولوجية التي تختلف في أعمارها وخصائصها، ومن أبرزها تكوينات عصر الإيوسين، ورواسب النيل، والرواسب الرباعية غير المميزة، والتكوينات البركانية، بالإضافة إلى بعض الرواسب والتكوينات الأحدث.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تساعد دراسة التكوينات الجيولوجية في التعرف على طبيعة الأساس الأرضي للمواقع المرشحة، وتقييم الخصائص الجيولوجية ومدى ملاءمتها لأعمال الإنشاء والتثبيت.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* الجدول والرسم البياني للسكشن 7 */}
+              <div className="pt-6 border-t border-white/10 space-y-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="gn-display text-lg font-semibold text-white flex items-center gap-2"><FaTable className="gn-gold" /> جدول التكوينات الجيولوجية بمحافظة سوهاج</h4>
+                </div>
+                <div className="grid md:grid-cols-3 gap-6">
+                  <div className="md:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/30">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/10 text-gold border-b border-white/10 text-sm">
+                          <th className="p-4 font-semibold">التكوين الجيولوجي</th>
+                          <th className="p-4 font-semibold">المساحة (كم²)</th>
+                          <th className="p-4 font-semibold">النسبة (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm gn-text-2">
+                        <tr><td className="p-4 font-medium text-white">تكوينات العصر الرباعي (Quaternary)</td><td className="p-4 font-mono">4,821.15</td><td className="p-4 font-mono gn-gold font-bold">47.88%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تكوينات الإيوسين (Eocene Limestone)</td><td className="p-4 font-mono">4,112.50</td><td className="p-4 font-mono gn-gold font-bold">40.85%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">رواسب وادي النيل الحديثة</td><td className="p-4 font-mono">985.20</td><td className="p-4 font-mono gn-gold font-bold">9.78%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تكوينات وصخور أخرى</td><td className="p-4 font-mono">148.80</td><td className="p-4 font-mono gn-gold font-bold">1.49%</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                    <h5 className="text-sm font-semibold text-white text-center">توزيع التكوينات الجيولوجية</h5>
+                    <div className="relative w-36 h-36 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#10b981 0% 47.88%, #3b82f6 47.88% 88.73%, #f59e0b 88.73% 98.51%, #ef4444 98.51% 100%)' }}>
+                       <div className="absolute w-24 h-24 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                         <span className="text-[10px] gn-muted">الإجمالي</span>
+                         <span className="text-xs font-bold text-white">100%</span>
+                       </div>
+                    </div>
+                    <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 ml-1"></span>العصر الرباعي: <b className="gn-gold">47.88%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-blue-500 ml-1"></span>تكوينات الإيوسين: <b className="gn-gold">40.85%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-amber-500 ml-1"></span>رواسب النيل: <b className="gn-gold">9.78%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 ml-1"></span>صخور أخرى: <b className="gn-gold">1.49%</b></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن الثامن: خريطة شبكة الطرق ومعها الجدول والرسم البياني */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaRoad className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن الثامن • معيار البنية الأساسية</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة شبكة الطرق (Road Networks)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map8.jpg" alt="خريطة شبكة الطرق" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 8: التوزيع المكاني لشبكة الطرق الرئيسية والفرعية بمحافظة سوهاج</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تستعرض الخريطة توزيع شبكة الطرق التي تخدم محافظة سوهاج، وتشمل الطرق الرئيسية السريعة وطرق الربط بين المراكز والقرى، والتركز الواضح لمحاور النقل حول شريط وادي النيل والظهير الصحراوي.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      يُعد القرب من شبكة الطرق ركيزة أساسية لتسهيل حركة نقل المعدات الثقيلة، الألواح الشمسية، ومستلزمات الإنشاءات، فضلاً عن ضمان سهولة الوصول لأعمال التشغيل والصيانة الدورية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* الجدول والرسم البياني للسكشن 8 */}
+              <div className="pt-6 border-t border-white/10 space-y-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="gn-display text-lg font-semibold text-white flex items-center gap-2"><FaTable className="gn-gold" /> جدول توزيع درجات القرب من الطرق</h4>
+                </div>
+                <div className="grid md:grid-cols-3 gap-6">
+                  <div className="md:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/30">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/10 text-gold border-b border-white/10 text-sm">
+                          <th className="p-4 font-semibold">فئة المسافة عن الطرق</th>
+                          <th className="p-4 font-semibold">المساحة (كم²)</th>
+                          <th className="p-4 font-semibold">النسبة (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm gn-text-2">
+                        <tr><td className="p-4 font-medium text-white">قريب جداً (أقل من 2 كم)</td><td className="p-4 font-mono">3,850.40</td><td className="p-4 font-mono gn-gold font-bold">38.24%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">قريب (2 - 5 كم)</td><td className="p-4 font-mono">3,120.10</td><td className="p-4 font-mono gn-gold font-bold">30.99%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">متوسط البعد (5 - 10 كم)</td><td className="p-4 font-mono">2,140.60</td><td className="p-4 font-mono gn-gold font-bold">21.26%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">بعيد (أكثر من 10 كم)</td><td className="p-4 font-mono">956.55</td><td className="p-4 font-mono gn-gold font-bold">9.51%</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                    <h5 className="text-sm font-semibold text-white text-center">توزيع القرب من شبكة الطرق</h5>
+                    <div className="relative w-36 h-36 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#10b981 0% 38.24%, #2fd3b4 38.24% 69.23%, #f59e0b 69.23% 90.49%, #ef4444 90.49% 100%)' }}>
+                       <div className="absolute w-24 h-24 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                         <span className="text-[10px] gn-muted">الإجمالي</span>
+                         <span className="text-xs font-bold text-white">100%</span>
+                       </div>
+                    </div>
+                    <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 ml-1"></span>أقل من 2 كم: <b className="gn-gold">38.24%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-teal-400 ml-1"></span>2 - 5 كم: <b className="gn-gold">30.99%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-amber-500 ml-1"></span>5 - 10 كم: <b className="gn-gold">21.26%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 ml-1"></span>أكثر من 10 كم: <b className="gn-gold">9.51%</b></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن التاسع: خريطة خطوط النقل الكهربائي ومعها الجدول والرسم البياني */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaBolt className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن التاسع • معيار البنية الأساسية الكهربائية</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة خطوط النقل الكهربائي (Power Lines)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map9.jpg" alt="خريطة خطوط النقل الكهربائي" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 9: مسارات ومحطات خطوط النقل الكهربائي والجهد العالي</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      توضح الخريطة مسارات شبكات نقل الطاقة الكهربائية وخطوط الجهد العالي ومحطات المحولات القائمة داخل النطاق الجغرافي للمحافظة والظهير الصحراوي المرتبط بها.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تحديد المسافات الفاصلة لربط محطات الطاقة الشمسية المقترحة بالشبكة القومية بكفاءة عالية، وتقليل الفقد الكهربائي وتكاليف مد خطوط الربط الفرعية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* الجدول والرسم البياني للسكشن 9 */}
+              <div className="pt-6 border-t border-white/10 space-y-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="gn-display text-lg font-semibold text-white flex items-center gap-2"><FaTable className="gn-gold" /> جدول القرب من شبكات الجهد العالي</h4>
+                </div>
+                <div className="grid md:grid-cols-3 gap-6">
+                  <div className="md:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/30">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/10 text-gold border-b border-white/10 text-sm">
+                          <th className="p-4 font-semibold">فئة المسافة عن خطوط الكهرباء</th>
+                          <th className="p-4 font-semibold">المساحة (كم²)</th>
+                          <th className="p-4 font-semibold">النسبة (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm gn-text-2">
+                        <tr><td className="p-4 font-medium text-white">مباشر / مثالي (أقل من 3 كم)</td><td className="p-4 font-mono">4,120.30</td><td className="p-4 font-mono gn-gold font-bold">40.92%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">ملائم (3 - 8 كم)</td><td className="p-4 font-mono">3,450.80</td><td className="p-4 font-mono gn-gold font-bold">34.28%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">متوسط (8 - 15 كم)</td><td className="p-4 font-mono">1,820.40</td><td className="p-4 font-mono gn-gold font-bold">18.08%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">بعيد (أكثر من 15 كم)</td><td className="p-4 font-mono">676.15</td><td className="p-4 font-mono gn-gold font-bold">6.72%</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                    <h5 className="text-sm font-semibold text-white text-center">توزيع القرب من خطوط الكهرباء</h5>
+                    <div className="relative w-36 h-36 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#10b981 0% 40.92%, #3b82f6 40.92% 75.20%, #f59e0b 75.20% 93.28%, #ef4444 93.28% 100%)' }}>
+                       <div className="absolute w-24 h-24 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                         <span className="text-[10px] gn-muted">الإجمالي</span>
+                         <span className="text-xs font-bold text-white">100%</span>
+                       </div>
+                    </div>
+                    <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 ml-1"></span>أقل من 3 كم: <b className="gn-gold">40.92%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-blue-500 ml-1"></span>3 - 8 كم: <b className="gn-gold">34.28%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-amber-500 ml-1"></span>8 - 15 كم: <b className="gn-gold">18.08%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 ml-1"></span>أكثر من 15 كم: <b className="gn-gold">6.72%</b></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن العاشر: خريطة الانحدارات والتضاريس */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaMountain className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن العاشر • معيار طبوغرافي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة درجات الانحدار والتضاريس (Slope & Topography)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map10.jpg" alt="خريطة درجات الانحدار والتضاريس" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 10: التوزيع المكاني لدرجات الانحدار والخصائص الطبوغرافية</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تعرض الخريطة التباين في زوايا الانحدار السطحي لمحافظة سوهاج، حيث تتميز المناطق الصحراوية عموماً باستواء نسبي يتخلله بعض المنحدرات الحادة عند حواف الهضاب ومجاري الأودية.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تُعد الانحدارات الضعيفة والمستوية عوامل رئيسية لاختيار مواقع الألواح الشمسية لتقليل أعمال الحفر والتسوية الباهظة وضمان ثبات الهياكل المعدنية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* السكشن الحادي عشر: خريطة استخدامات الأراضي ومعها الجدول والرسم البياني */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/30">
+              <div className="flex items-center gap-3">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaLayerGroup className="w-6 h-6" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">السكشن الحادي عشر • معيار بيئي وتنموي</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">خريطة استخدامات الأراضي (Land Use / Land Cover)</h2>
+                </div>
+              </div>
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img src="/map11.jpg" alt="خريطة استخدامات الأراضي" className="w-full h-auto object-contain rounded-xl max-h-[450px] mx-auto" onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">📍 خريطة 11: التصنيف الجغرافي لأنماط استخدامات الأراضي والغطاء الأرضي</div>
+                </div>
+                <div className="space-y-6">
+                  <div className="space-y-3">
+                    <h3 className="gn-display text-lg font-semibold gn-gold">النبذة والتحليل</h3>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      توضح الخريطة الفئات الرئيسية لاستخدامات الأراضي في المحافظة، وتصنيف الأراضي الزراعية، التجمعات العمرانية، الأراضي العارية، والظهير الصحراوي غير المستغل.
+                    </p>
+                    <h4 className="gn-display text-md font-semibold gn-gold pt-2">أهمية الخريطة للمشروع</h4>
+                    <p className="gn-text-2 leading-relaxed text-sm md:text-base">
+                      تتيح استبعاد المناطق العمرانية والأراضي الزراعية عالية الإنتاجية وتوجيه الاستثمارات نحو الأراضي الصحراوية الشاسعة غير المستغلة بما يحقق استدامة الموارد البيئية.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              {/* الجدول والرسم البياني للسكشن 11 */}
+              <div className="pt-6 border-t border-white/10 space-y-6">
+                <div className="flex items-center justify-between">
+                  <h4 className="gn-display text-lg font-semibold text-white flex items-center gap-2"><FaTable className="gn-gold" /> جدول استخدامات الأراضي والغطاء الأرضي</h4>
+                </div>
+                <div className="grid md:grid-cols-3 gap-6">
+                  <div className="md:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/30">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/10 text-gold border-b border-white/10 text-sm">
+                          <th className="p-4 font-semibold">فئة استخدام الأراضي</th>
+                          <th className="p-4 font-semibold">المساحة (كم²)</th>
+                          <th className="p-4 font-semibold">النسبة (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm gn-text-2">
+                        <tr><td className="p-4 font-medium text-white">أراضي صحراوية غير مستغلة (مثالية)</td><td className="p-4 font-mono">6,820.50</td><td className="p-4 font-mono gn-gold font-bold">67.74%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">أراضي زراعية (مستبعدة)</td><td className="p-4 font-mono">2,310.20</td><td className="p-4 font-mono gn-gold font-bold">22.95%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">تجمعات كتل عمرانية (مستبعدة)</td><td className="p-4 font-mono">710.80</td><td className="p-4 font-mono gn-gold font-bold">7.06%</td></tr>
+                        <tr><td className="p-4 font-medium text-white">مسطحات مائية ومجاري نهرية</td><td className="p-4 font-mono">226.15</td><td className="p-4 font-mono gn-gold font-bold">2.25%</td></tr>
+                      </tbody>
+                    </table>
+                  </div>
+                  <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                    <h5 className="text-sm font-semibold text-white text-center">توزيع فئات الغطاء الأرضي</h5>
+                    <div className="relative w-36 h-36 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#10b981 0% 67.74%, #84cc16 67.74% 90.69%, #ef4444 90.69% 97.75%, #38bdf8 97.75% 100%)' }}>
+                       <div className="absolute w-24 h-24 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                         <span className="text-[10px] gn-muted">الإجمالي</span>
+                         <span className="text-xs font-bold text-white">100%</span>
+                       </div>
+                    </div>
+                    <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-500 ml-1"></span>أراضي صحراوية: <b className="gn-gold">67.74%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-lime-500 ml-1"></span>أراضي زراعية: <b className="gn-gold">22.95%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 ml-1"></span>كتل عمرانية: <b className="gn-gold">7.06%</b></p>
+                      <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-sky-400 ml-1"></span>مسطحات مائية: <b className="gn-gold">2.25%</b></p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
           </div>
         )}
 
-        {/* عرض الصفحة الفرعية الثانية: تحليل البيانات والنتائج النهائية (السكاشن 12 فما فوق) */}
+        {/* عرض الصفحة الفرعية الثانية: تحليل البيانات والنتائج النهائية */}
         {currentView === 'analysis-results' && (
           <div className="space-y-16 animate-fade-in py-6">
             <div className="flex items-center justify-between border-b border-white/10 pb-6">
@@ -648,7 +932,7 @@ export default function App() {
                 <span className="gn-gold text-sm font-semibold">مخرجات النمذجة الجيومكانية</span>
                 <h1 className="gn-display text-3xl font-semibold text-white mt-1">تحليل البيانات والنتائج النهائية</h1>
               </div>
-              
+             
             </div>
 
             {/* السكشنات المدمجة للخرائط (12، 13، 14) */}
@@ -701,7 +985,7 @@ export default function App() {
               ))}
             </div>
 
-            {/* باقي الخرائط الفردية (من سكشن 15 فما فوق) */}
+            {/* باقي الخرائط الفردية (من سكشن 15 فما فوق) في كروت شبكية متناسبة ومنفصلة */}
             <div className="space-y-6 pt-4">
               <div className="border-b border-white/10 pb-4">
                 <h2 className="gn-display text-2xl font-semibold text-white">الطبقات والمعايير التحليلية المتبقية</h2>
@@ -752,7 +1036,175 @@ export default function App() {
           </div>
         )}
 
-        {/* عرض الصفحة الرئيسية والتنقل السريع بين الكروت الثلاثة الرئيسيّة */}
+        {/* الصفحة الفرعية الجديدة: الناتج النهائي */}
+        {currentView === 'final-result' && (
+          <div className="space-y-12 animate-fade-in py-6">
+            <div className="flex items-center justify-between border-b border-white/10 pb-6">
+              <div>
+                <span className="gn-gold text-sm font-semibold">مخرجات التراكب الموزون (Weighted Overlay)</span>
+                <h1 className="gn-display text-3xl font-semibold text-white mt-1">الناتج النهائي: خريطة الملاءمة المكانية النهائية</h1>
+              </div>
+              
+            </div>
+
+            {/* بطاقة التحليل النصي والخريطة النهائية */}
+            <div className="gn-card p-8 md:p-10 rounded-3xl space-y-8 border border-[#e9c98a]/40 shadow-2xl">
+              <div className="flex items-center gap-3 border-b border-white/10 pb-4">
+                <div className="gn-icon-box p-3 rounded-2xl"><FaFlagCheckered className="w-6 h-6 text-[#e9c98a]" /></div>
+                <div>
+                  <span className="gn-gold text-xs font-bold uppercase tracking-wider">النتائج النهائية للمشروع</span>
+                  <h2 className="gn-display text-2xl font-semibold text-white">تحليل خريطة الملاءمة المكانية النهائية لاختيار مواقع مزارع الطاقة الشمسية بمحافظة سوهاج</h2>
+                </div>
+              </div>
+
+              <div className="grid lg:grid-cols-2 gap-8 items-center">
+                <div className="rounded-2xl overflow-hidden border border-[#e9c98a]/30 bg-black/40 p-2 shadow-2xl">
+                  <img 
+                    src="/map26.jpg" 
+                    alt="خريطة الملاءمة المكانية النهائية" 
+                    className="w-full h-auto object-contain rounded-xl max-h-[500px] mx-auto" 
+                    onError={(e) => { (e.target as HTMLElement).style.display = 'none'; }} 
+                  />
+                  <div className="text-center p-3 text-xs gn-muted border-t border-white/10 mt-2">
+                    📍 خريطة 26: التوزيع الجغرافي لدرجات الملاءمة المكانية النهائية بمحافظة سوهاج
+                  </div>
+                </div>
+
+                <div className="space-y-4 gn-text-2 text-sm md:text-base leading-relaxed">
+                  <p>
+                    توضح الخريطة التوزيع الجغرافي لدرجات الملاءمة المكانية لإنشاء مزارع الطاقة الشمسية بمحافظة سوهاج، وذلك بعد دمج مختلف المعايير الطبيعية والبشرية باستخدام أسلوب التراكب الموزون (<span className="gn-gold font-semibold">Weighted Overlay</span>)، بهدف تحديد أنسب المواقع من الناحية الجغرافية والبيئية والفنية لإقامة مشروعات الطاقة الشمسية.
+                  </p>
+                  <p>
+                    وتكشف الخريطة عن وجود تباين مكاني واضح في درجات الملاءمة داخل منطقة الدراسة، حيث تتركز المناطق ذات الملاءمة العالية جدًا باللون الأخضر الداكن في مساحات واسعة من الأجزاء الشمالية والوسطى والغربية، وتمتد في بعض المواقع نحو الجنوب، وقد بلغت المساحة الإجمالية لهذه الفئة <span className="gn-gold font-bold text-base">2,177 كم²</span>، وهو ما يعكس وجود نطاقات جغرافية واسعة تمتلك مقومات مناسبة لإقامة مزارع الطاقة الشمسية.
+                  </p>
+                  <p>
+                    كما تظهر المناطق الملائمة باللون الأخضر الفاتح في أجزاء متفرقة من المنطقة، بينما تنتشر المناطق متوسطة الملاءمة باللون الأصفر، وتظهر المناطق غير الملائمة باللون البرتقالي، في حين تتركز المناطق ذات الملاءمة المنخفضة جدًا باللون الأحمر في بعض النطاقات الشرقية والجنوبية.
+                  </p>
+                  <p className="bg-[#e9c98a]/10 p-4 rounded-2xl border border-[#e9c98a]/20 text-white font-medium">
+                    وبوجه عام، توضح النتائج أن محافظة سوهاج تمتلك مساحات واسعة قابلة للترشيح لإقامة مشروعات الطاقة الشمسية، مع إعطاء الأولوية للمناطق التي حققت أعلى درجات الملاءمة، والتي بلغت مساحتها <span className="gn-gold font-bold">2,177 كم²</span>، باعتبارها النطاقات الأكثر ملاءمة وفقًا لمعايير الدراسة والتحليل المكاني.
+                  </p>
+                </div>
+              </div>
+
+              {/* الجداول */}
+              <div className="pt-8 border-t border-white/10 space-y-10">
+
+                {/* الجدول الأول */}
+                <div className="space-y-4">
+                  <h3 className="gn-display text-xl font-semibold text-white flex items-center gap-2">
+                    <FaTable className="gn-gold" /> الجدول الأول: جدول الأوزان النسبية للمعايير (Weighted Criteria)
+                  </h3>
+                  <div className="overflow-x-auto rounded-2xl border border-white/10 bg-black/40">
+                    <table className="w-full text-right border-collapse">
+                      <thead>
+                        <tr className="bg-[#e9c98a]/15 text-gold border-b border-white/10 text-sm md:text-base">
+                          <th className="p-4 font-bold">المعيار (Criteria)</th>
+                          <th className="p-4 font-bold text-center">الوزن النسبي (%)</th>
+                        </tr>
+                      </thead>
+                      <tbody className="divide-y divide-white/5 text-sm md:text-base gn-text-2">
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الإشعاع الشمسي</td><td className="p-4 text-center font-mono font-bold gn-gold">22%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">خطوط الكهرباء الجهد العالي</td><td className="p-4 text-center font-mono font-bold gn-gold">14%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الطرق الرئيسية</td><td className="p-4 text-center font-mono font-bold gn-gold">10%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">المخاطر الطبيعية (مخرات السيول والأودية)</td><td className="p-4 text-center font-mono font-bold gn-gold">6%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الانحدار</td><td className="p-4 text-center font-mono font-bold gn-gold">8%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الارتفاعات</td><td className="p-4 text-center font-mono font-bold gn-gold">5%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">متوسط درجات الحرارة</td><td className="p-4 text-center font-mono font-bold gn-gold">4%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">الرطوبة النسبية</td><td className="p-4 text-center font-mono font-bold gn-gold">4%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">المحميات الطبيعية</td><td className="p-4 text-center font-mono font-bold gn-gold">5%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">استخدام الأرض</td><td className="p-4 text-center font-mono font-bold gn-gold">7%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">التربة</td><td className="p-4 text-center font-mono font-bold gn-gold">8%</td></tr>
+                        <tr className="hover:bg-white/5 transition-colors"><td className="p-4 font-medium text-white">التركيب الجيولوجي</td><td className="p-4 text-center font-mono font-bold gn-gold">7%</td></tr>
+                        <tr className="bg-[#e9c98a]/10 font-bold text-white border-t border-[#e9c98a]/30">
+                          <td className="p-4">الإجمالي النهائي الأخير</td>
+                          <td className="p-4 text-center font-mono text-lg gn-gold">100%</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+
+                {/* الجدول الثاني + الرسم الدائري */}
+                <div className="space-y-4">
+                  <h3 className="gn-display text-xl font-semibold text-white flex items-center gap-2">
+                    <FaChartPie className="gn-gold" /> الجدول الثاني: جدول درجات الملاءمة المكانية والنسب المئوية
+                  </h3>
+                  <div className="grid lg:grid-cols-3 gap-8 items-center">
+                    <div className="lg:col-span-2 overflow-x-auto rounded-2xl border border-white/10 bg-black/40">
+                      <table className="w-full text-right border-collapse">
+                        <thead>
+                          <tr className="bg-[#e9c98a]/15 text-gold border-b border-white/10 text-sm md:text-base">
+                            <th className="p-4 font-bold">الفئة (Suitability Class)</th>
+                            <th className="p-4 font-bold text-center">المساحة (كم²)</th>
+                            <th className="p-4 font-bold text-center">النسبة (%)</th>
+                          </tr>
+                        </thead>
+                        <tbody className="divide-y divide-white/5 text-sm md:text-base gn-text-2">
+                          <tr className="hover:bg-white/5 transition-colors">
+                            <td className="p-4 font-medium text-white flex items-center gap-2">
+                              <span className="w-3 h-3 rounded-full bg-red-800"></span> Unsuitable (غير ملائم)
+                            </td>
+                            <td className="p-4 text-center font-mono">1,198</td>
+                            <td className="p-4 text-center font-mono font-bold gn-gold">12.03%</td>
+                          </tr>
+                          <tr className="hover:bg-white/5 transition-colors">
+                            <td className="p-4 font-medium text-white flex items-center gap-2">
+                              <span className="w-3 h-3 rounded-full bg-red-500"></span> Low Suitability (ملاءمة منخفضة جداً)
+                            </td>
+                            <td className="p-4 text-center font-mono">1,973</td>
+                            <td className="p-4 text-center font-mono font-bold gn-gold">19.81%</td>
+                          </tr>
+                          <tr className="hover:bg-white/5 transition-colors">
+                            <td className="p-4 font-medium text-white flex items-center gap-2">
+                              <span className="w-3 h-3 rounded-full bg-yellow-400"></span> Moderate Suitability (متوسط الملاءمة)
+                            </td>
+                            <td className="p-4 text-center font-mono">3,231</td>
+                            <td className="p-4 text-center font-mono font-bold gn-gold">32.43%</td>
+                          </tr>
+                          <tr className="hover:bg-white/5 transition-colors">
+                            <td className="p-4 font-medium text-white flex items-center gap-2">
+                              <span className="w-3 h-3 rounded-full bg-emerald-400"></span> High Suitability (ملائم)
+                            </td>
+                            <td className="p-4 text-center font-mono">1,383</td>
+                            <td className="p-4 text-center font-mono font-bold gn-gold">13.89%</td>
+                          </tr>
+                          <tr className="hover:bg-white/5 transition-colors">
+                            <td className="p-4 font-medium text-white flex items-center gap-2">
+                              <span className="w-3 h-3 rounded-full bg-emerald-800"></span> Most Suitable (أعلى ملاءمة / ممتاز)
+                            </td>
+                            <td className="p-4 text-center font-mono font-bold text-emerald-400">2,177</td>
+                            <td className="p-4 text-center font-mono font-bold gn-gold">21.84%</td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </div>
+
+                    {/* الرسم الدائري */}
+                    <div className="gn-cell p-6 rounded-2xl space-y-4 flex flex-col items-center justify-center">
+                      <h5 className="text-sm font-semibold text-white text-center">توزيع درجات الملاءمة النهائية</h5>
+                      <div className="relative w-40 h-40 rounded-full flex items-center justify-center shadow-lg" style={{ background: 'conic-gradient(#991b1b 0% 12.03%, #ef4444 12.03% 31.84%, #facc15 31.84% 64.27%, #34d399 64.27% 78.16%, #065f46 78.16% 100%)' }}>
+                        <div className="absolute w-28 h-28 bg-[#0a1512] rounded-full flex flex-col items-center justify-center shadow-inner">
+                          <span className="text-[10px] gn-muted">الإجمالي</span>
+                          <span className="text-sm font-bold text-white">100%</span>
+                        </div>
+                      </div>
+                      <div className="text-[11px] space-y-1 text-right w-full pt-2 border-t border-white/10">
+                        <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-800 ml-1"></span>أعلى ملاءمة: <b className="gn-gold">21.84%</b></p>
+                        <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-emerald-400 ml-1"></span>ملائم: <b className="gn-gold">13.89%</b></p>
+                        <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-yellow-400 ml-1"></span>متوسط: <b className="gn-gold">32.43%</b></p>
+                        <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-500 ml-1"></span>منخفض جداً: <b className="gn-gold">19.81%</b></p>
+                        <p className="text-white"><span className="inline-block w-2.5 h-2.5 rounded-full bg-red-800 ml-1"></span>غير ملائم: <b className="gn-gold">12.03%</b></p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+          </div>
+        )}
+
+        {/* عرض الصفحة الرئيسية وباقي الأقسام عند اختيار العودة */}
         {currentView === 'home' && (
           <>
             <section id="about" className="space-y-10 scroll-mt-24">
@@ -801,63 +1253,43 @@ export default function App() {
               </div>
             </section>
 
-            {/* قسم كروت التنقل بين أقسام البيانات الثلاثة الرئيسية */}
             <section id="data-analysis" className="space-y-8 scroll-mt-24">
               <div className="grid md:grid-cols-3 gap-6">
-                
-                {/* كارت 1: طبقات البيانات المكانية */}
                 <div 
-                  onClick={() => handleViewChange('spatial-data')}
-                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl flex flex-col justify-between"
+                  onClick={() => setCurrentView('spatial-data')}
+                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl"
                 >
-                  <div className="space-y-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <div className="gn-icon-box p-3 rounded-2xl"><FaDatabase className="w-7 h-7" /></div>
-                      <FaExternalLinkAlt className="w-5 h-5 gn-muted group-hover:text-[#e9c98a] transition-colors" />
-                    </div>
-                    <h2 className="gn-display text-2xl font-semibold text-white">طبقات البيانات المكانية والتحليلية</h2>
-                    <p className="gn-muted text-sm leading-relaxed">استعرض طبقات البيانات المكانية الأساسية والجداول والنسب المئوية للسكاشن (من 1 إلى 11).</p>
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="gn-icon-box p-3 rounded-2xl"><FaDatabase className="w-8 h-8" /></div>
+                    <FaExternalLinkAlt className="w-5 h-5 gn-muted group-hover:text-[#e9c98a] transition-colors" />
                   </div>
-                  <span className="gn-gold text-xs font-bold pt-4 block border-t border-white/5"></span>
+                  <h2 className="gn-display text-2xl font-semibold text-white mb-3">طبقات البيانات المكانية والتحليلية</h2>
+                  <p className="gn-muted">استعرض طبقات البيانات المكانية الأساسية والجداول والنسب المئوية للسكاشن (من 1 إلى 11). (اضغط للدخول)</p>
                 </div>
 
-                {/* كارت 2: تحليل البيانات والنتائج النهائية */}
                 <div 
-                  onClick={() => handleViewChange('analysis-results')}
-                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl flex flex-col justify-between"
+                  onClick={() => setCurrentView('analysis-results')}
+                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl"
                 >
-                  <div className="space-y-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <div className="gn-icon-box p-3 rounded-2xl"><FaChartBar className="w-7 h-7" /></div>
-                      <FaExternalLinkAlt className="w-5 h-5 gn-muted group-hover:text-[#e9c98a] transition-colors" />
-                    </div>
-                    <h2 className="gn-display text-2xl font-semibold text-white">تحليل البيانات والنتائج النهائية</h2>
-                    <p className="gn-muted text-sm leading-relaxed">انتقل لاستعراض مخرجات التحليل المكاني، المسافات، والخرائط بعد إعادة التصنيف (من 12 فما فوق).</p>
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="gn-icon-box p-3 rounded-2xl"><FaChartBar className="w-8 h-8" /></div>
+                    <FaExternalLinkAlt className="w-5 h-5 gn-muted group-hover:text-[#e9c98a] transition-colors" />
                   </div>
-                  <span className="gn-gold text-xs font-bold pt-4 block border-t border-white/5"></span>
+                  <h2 className="gn-display text-2xl font-semibold text-white mb-3">تحليل البيانات والنتائج النهائية</h2>
+                  <p className="gn-muted">انتقل لاستعراض مخرجات التحليل المكاني والخرائط بعد إعادة التصنيف. (اضغط للدخول)</p>
                 </div>
 
-                {/* كارت 3 الجديد: الناتج النهائي (خريطة الملاءمة المكانية النهائية) */}
                 <div 
-                  onClick={() => handleViewChange('final-result')}
-                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl border border-[#e9c98a]/50 flex flex-col justify-between relative overflow-hidden"
+                  onClick={() => setCurrentView('final-result')}
+                  className="gn-card gn-card-hover group cursor-pointer p-8 rounded-3xl"
                 >
-                  <div className="absolute top-0 right-0 bg-[#e9c98a] text-black text-[10px] font-bold px-3 py-1 rounded-bl-xl">
-                    المُخرج الرئيسي
+                  <div className="flex items-center justify-between mb-4">
+                    <div className="gn-icon-box p-3 rounded-2xl"><FaFlagCheckered className="w-8 h-8" /></div>
+                    <FaExternalLinkAlt className="w-5 h-5 gn-muted group-hover:text-[#e9c98a] transition-colors" />
                   </div>
-                  <div className="space-y-4">
-                    <div className="flex items-center justify-between mb-2">
-                      <div className="gn-icon-box p-3 rounded-2xl bg-[#e9c98a]/20 border-[#e9c98a]/50"><FaFlagCheckered className="w-7 h-7 text-[#e9c98a]" /></div>
-                      <FaExternalLinkAlt className="w-5 h-5 gn-gold group-hover:scale-110 transition-transform" />
-                    </div>
-                    <h2 className="gn-display text-2xl font-semibold text-white">الناتج النهائي (Weighted Overlay)</h2>
-                    <p className="gn-muted text-sm leading-relaxed">تحليل خريطة الملاءمة المكانية النهائية بمحافظة سوهاج مع جدولي الأوزان النسبية والمساحات والنسب.</p>
-                  </div>
-                  <span className="gn-gold text-xs font-bold pt-4 block border-t border-white/5 flex items-center gap-1">
-               
-                  </span>
+                  <h2 className="gn-display text-2xl font-semibold text-white mb-3">الناتج النهائي (Weighted Overlay)</h2>
+                  <p className="gn-muted">خريطة الملاءمة المكانية النهائية وجداول الأوزان والنسب. (اضغط للدخول)</p>
                 </div>
-
               </div>
 
               {/* الخريطة التفاعلية */}
