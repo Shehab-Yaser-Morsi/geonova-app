@@ -318,6 +318,9 @@ export default function App() {
       .then(data => setNormalData(data))
       .catch(() => console.log("تعذر تحميل طبقة ملائم"));
   }, []);
+    useEffect(() => {
+    window.scrollTo(0, 0);
+  }, [currentView]);
 
   const getLayerStyle = (color: string) => ({
     color: color,
