@@ -299,6 +299,7 @@ export default function App() {
   const [clickedMarkers, setClickedMarkers] = useState<Array<{ lat: number; lng: number; text: string }>>([]);
   const [selectedSiteForAI, setSelectedSiteForAI] = useState(optimalSitesData[0]);
 const [index, setIndex] = useState(-1);
+  const [showAllImages, setShowAllImages] = useState(false);
   useEffect(() => {
     // 1. الطبقات الأساسية (تحتاج تحويل UTM)
     fetch('/suitable-high.geojson')
@@ -1408,9 +1409,12 @@ const [index, setIndex] = useState(-1);
                   <p className="gn-muted max-w-2xl mx-auto pt-2">نظرة شاملة على خرائط التحليل الميداني والتفاصيل المكانية للمشروع</p>
                 </div>
 
-                {/* شبكة الصور */}
-               <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4">
-                  {galleryImages.map((img, i) => (
+             
+                 {/* شبكة الصور */}
+                <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-4 md:gap-6">
+                  {galleryImages
+                    .slice(0, showAllImages ? 77 : 5) // لو الزر متداس هيعرض 77، لو لأ هيعرض أول 5 بس
+                    .map((img, i) => (
                     <div 
                       key={i} 
                       onClick={() => setIndex(i)}
@@ -1430,8 +1434,6 @@ const [index, setIndex] = useState(-1);
                     </div>
                   ))}
                 </div>
-
-              </div>
 
               {/* مكتبة عرض الصور المكبرة (Lightbox) */}
               <Lightbox
