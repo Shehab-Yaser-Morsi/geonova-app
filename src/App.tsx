@@ -1435,6 +1435,40 @@ const [index, setIndex] = useState(-1);
                   ))}
                 </div>
 
+                                {/* أزرار التحكم في العرض */}
+                {!showAllImages ? (
+                  // زر عرض المزيد (لما تكون الصور مقفولة)
+                  <div className="flex justify-center pt-6">
+                    <button 
+                      onClick={() => setShowAllImages(true)}
+                      className="flex items-center gap-2 bg-[#e9c98a]/10 hover:bg-[#e9c98a]/20 text-[#e9c98a] border border-[#e9c98a]/30 px-8 py-3 rounded-full transition-all font-bold text-sm"
+                    >
+                      <span>انقر لعرض المزيد من الصور</span>
+                      <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" className="w-4 h-4 animate-bounce" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"></path>
+                      </svg>
+                    </button>
+                  </div>
+                ) : (
+                  // زر عرض أقل / العودة لأول 5 صور (لما تكون الصور مفتوحة)
+                  <div className="flex justify-center pt-8 pb-4">
+                    <button 
+                      onClick={() => {
+                        setShowAllImages(false);
+                        document.getElementById('gallery')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+                      }}
+                      className="flex items-center gap-2 bg-[#e9c98a]/10 hover:bg-[#e9c98a]/20 text-[#e9c98a] border border-[#e9c98a]/30 px-6 py-2.5 rounded-full transition-all font-bold text-sm"
+                    >
+                      <span>عرض أقل / العودة للأعلى</span>
+                      <svg stroke="currentColor" fill="currentColor" strokeWidth="0" viewBox="0 0 512 512" className="w-4 h-4 animate-bounce" style={{ transform: 'rotate(180deg)' }} xmlns="http://www.w3.org/2000/svg">
+                        <path d="M256 294.1L383 167c9.4-9.4 24.6-9.4 33.9 0s9.3 24.6 0 34L273 345c-9.1 9.1-23.7 9.3-33.1.7L95 201.1c-4.7-4.7-7-10.9-7-17s2.3-12.3 7-17c9.4-9.4 24.6-9.4 33.9 0l127.1 127z"></path>
+                      </svg>
+                    </button>
+                  </div>
+                )}
+
+              </div>
+
               {/* مكتبة عرض الصور المكبرة (Lightbox) */}
               <Lightbox
                 open={index >= 0}
