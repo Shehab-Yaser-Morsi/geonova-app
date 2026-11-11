@@ -1,0 +1,3 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"LineString","coordinates":[[31.46542882700004,26.64151279300006],[31.474193227000058,26.64913400100005],[31.481131591000064,26.65250222800006]]},"properties":{"OID_":0,"Name":"ربط جهينة 66","FolderPath":"ربط جهينة 661.kmz","SymbolID":0,"AltMode":0,"Base":0,"Clamped":-1,"Extruded":0,"Snippet":"","PopupInfo":"","Shape_Leng":1.99920648442}}
+]}
